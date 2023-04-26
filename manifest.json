@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Be Sudoku Master is key map extension on easy brain sudoku game",
   "manifest_version": 3,
+  "icons": {"512": "sudoku.png"},
   "author": "Kinggodhoon",
   "action": {
     "default_popup": "index.html",
