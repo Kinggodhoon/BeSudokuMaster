@@ -1,0 +1,122 @@
+[
+  {
+    "eventArgs": {
+      "key": "1",
+      "location":"Numpad",
+      "code": "Numpad1",
+      "keyCode": 97,
+      "which": 97
+    },
+    "pressedKeyCode": "KeyZ",
+    "action": "keydown",
+    "displayCode": "1"
+  },
+  {
+    "eventArgs": {
+      "key": "2",
+      "location":"Numpad",
+      "code": "Numpad2",
+      "keyCode": 98,
+      "which": 98
+    },
+    "pressedKeyCode": "KeyX",
+    "action": "keydown",
+    "displayCode": "2"
+  },
+  {
+    "eventArgs": {
+      "key": "3",
+      "location":"Numpad",
+      "code": "Numpad3",
+      "keyCode": 99,
+      "which": 99
+    },
+    "pressedKeyCode": "KeyC",
+    "action": "keydown",
+    "displayCode": "3"
+  },
+  {
+    "eventArgs": {
+      "key": "4",
+      "location":"Numpad",
+      "code": "Numpad4",
+      "keyCode": 100,
+      "which": 100
+    },
+    "pressedKeyCode": "KeyA",
+    "action": "keydown",
+    "displayCode": "4"
+  },
+  {
+    "eventArgs": {
+      "key": "5",
+      "location":"Numpad",
+      "code": "Numpad5",
+      "keyCode": 101,
+      "which": 101
+    },
+    "pressedKeyCode": "KeyS",
+    "action": "keydown",
+    "displayCode": "5"
+  },
+  {
+    "eventArgs": {
+      "key": "6",
+      "location":"Numpad",
+      "code": "Numpad6",
+      "keyCode": 102,
+      "which": 102
+    },
+    "pressedKeyCode": "KeyD",
+    "action": "keydown",
+    "displayCode": "6"
+  },
+  {
+    "eventArgs": {
+      "key": "7",
+      "location":"Numpad",
+      "code": "Numpad7",
+      "keyCode": 103,
+      "which": 103
+    },
+    "pressedKeyCode": "KeyQ",
+    "action": "keydown",
+    "displayCode": "7"
+  },
+  {
+    "eventArgs": {
+      "key": "8",
+      "location":"Numpad",
+      "code": "Numpad8",
+      "keyCode": 104,
+      "which": 104
+    },
+    "pressedKeyCode": "KeyW",
+    "action": "keydown",
+    "displayCode": "8"
+  },
+  {
+    "eventArgs": {
+      "key": "9",
+      "location":"Numpad",
+      "code": "Numpad9",
+      "keyCode": 105,
+      "which": 105
+    },
+    "pressedKeyCode": "KeyE",
+    "action": "keydown",
+    "displayCode": "9"
+  },
+  {
+    "eventArgs": ".game-controls-item[data-action='pencil']",
+    "pressedKeyCode": "KeyF",
+    "action": "click",
+    "displayCode": "Memo"
+  },
+  {
+    "eventArgs": "timer-wrapper",
+    "pressedKeyCode": "Escape",
+    "action": "pause",
+    "displayCode": "Pause"
+  }
+]

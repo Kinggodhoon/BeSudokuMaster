@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Settings</title>
+    <style>
+      .key-map-wrapper {
+        display: flex;
+        justify-content: center;
+        gap: 7px;
+        width: 120px;
+        height: 20px;
+        margin-bottom: 7px;
+        align-items: center;
+      }
+      .list-group-item {
+        width: 80px;
+      }
+      .container {
+        margin-left: 5%;
+      }
+      .commit-btn-group {
+        margin-top: 20px;
+      }
+      .util-btn {
+        margin-right: 15px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h2>Key Map Settings</h2>
+      <div
+        class="list-group"
+        id="keyMapList"
+        style="display: flex; flex-direction: column"
+      ></div>
+      <div class="commit-btn-group">
+        <button class= util-btn id="commitBtn" disabled="true">commit</button>
+        <button class= util-btn id="cancelBtn">cancel</button>
+      </div>
+    </div>
+    <script type="module" src="settings.js"></script>
+  </body>
+</html>
