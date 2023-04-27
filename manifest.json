@@ -1,6 +1,6 @@
 {
   "name": "Be Sudoku Master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Be Sudoku Master is key map extension on easy brain sudoku game",
   "manifest_version": 3,
   "icons": {"512": "sudoku.png"},
